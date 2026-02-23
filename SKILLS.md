@@ -1,6 +1,12 @@
 ---
 name: minions-repos
-description: GitHub repo definitions, workflow templates, label sets, and branch protection rules
+id: OC-0153
+version: 1.0.0
+description: "GitHub repo definitions, workflow templates, label sets, and branch protection rules"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-repos — Agent Skills
