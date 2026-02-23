@@ -1,6 +1,6 @@
 {
   "name": "@minions-repos/cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for minions-repos — GitHub repo definitions, workflow templates, label sets, and branch protection rules",
   "license": "MIT",
   "repository": {
