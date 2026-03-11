@@ -1,0 +1,8 @@
+name: "@minions-repos/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-repos-workspace
+description: "GitHub repo definitions, workflow templates, label sets, and branch protection rules"
+priority: high
+deploy_url: null
+tags: null

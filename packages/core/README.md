@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/@minions-repos/sdk/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # @minions-repos/sdk
 
 GitHub repo definitions, workflow templates, label sets, and branch protection rules

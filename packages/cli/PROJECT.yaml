@@ -1,0 +1,8 @@
+name: "@minions-repos/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-repos-workspace
+description: "CLI for minions-repos — GitHub repo definitions, workflow templates, label sets, and branch protection rules"
+priority: high
+deploy_url: null
+tags: null
