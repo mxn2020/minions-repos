@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-repos"
-version = "0.1.0"
+version = "0.2.0"
 description = "GitHub repo definitions, workflow templates, label sets, and branch protection rules"
 readme = "README.md"
 license = { text = "MIT" }
